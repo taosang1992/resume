@@ -52,11 +52,6 @@ img {
 /*-----------------------------------*/
 
 /*page style*/
-
-.page-wrapper {
-
-}
-
 header {
     height: 280px;
     background-color: #1989fa;
@@ -189,11 +184,12 @@ header nav a:hover {
 
 .more {
     display: block;
-    width: 6rem;
+    width: 8rem;
     color: #ffffff;
     border-radius: 5px;
     background-color: #1989fa;
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 /*works section*/
@@ -221,7 +217,7 @@ footer {
     font-size: 14px;
 
 }
-
+/*响应式代码*/
 @media screen and (max-width: 768px) {
     #about, #works {
         padding: 20px 20px;
