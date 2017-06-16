@@ -152,7 +152,7 @@ header nav a:hover {
     padding: 20px 0;
 }
 
-.panel-mask a {
+.panel-mask>a {
     background-color: rgba(255, 255, 255, .7);
     position: absolute;
     right: 20px;
@@ -165,6 +165,10 @@ header nav a:hover {
     color: #ffffff;
 }
 
+.panel-mask ol a{
+    color: #ffeb3b;
+    text-decoration: underline;
+}
 .img-panel:hover .panel-mask {
     display: block;
 }
