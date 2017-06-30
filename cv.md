@@ -15,7 +15,7 @@
     - 了解 Node.js 和 Express 框架
     - 了解 Bootstrap 框架的使用
 6. **解决问题**：懂得用 Google 和 Stack Overflow 等自行解决遇到的大部分问题
-7. **英文：**曾在开源中国翻译过开源软件，可以看懂并翻译英文技术文章   
+7. **英文**：曾在开源中国翻译过开源软件，可以看懂并翻译英文技术文章   
 
 ### 项目
 1. [维基百科预览器](https://codepen.io/taosang1992/full/Emyxjy)——可以用来查询和显示维基百科查询结果<br>
@@ -34,7 +34,7 @@
 - [简书](http://www.jianshu.com/u/8c85b6c419d1)——http://www.jianshu.com/u/8c85b6c419d1（直接搜ID「小董君」即可）
 - [Github](https://github.com/taosang1992)——https://github.com/taosang1992
 - [CodePen](http://codepen.io/taosang1992/pens/public/)——http://codepen.io/taosang1992
-- [FreeCodeCamp](https://www.freecodecamp.com/taosang1992)——https://www.freecodecamp.com/taosang1992（可以查看我的 JS 算法挑战情况）
+- [FreeCodeCamp](https://www.freecodecamp.com/taosang1992)——https://www.freecodecamp.com/taosang1992 （可以查看我的 JS 算法挑战情况）
 
 ### 工作经历
 **Sewell 深圳办公室** <br>
