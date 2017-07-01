@@ -1,0 +1,139 @@
+/* css reset*/
+body, p, dl, dt, dd, h3, h4 ,ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+/* 公共样式 */
+.clearF {
+    overflow: auto;
+    zoom: 1;
+}
+
+.fL {
+    float: left;
+}
+
+.fR {
+    float: right;
+}
+
+body {
+    font-family: Verdana, Helvetica, 'Microsoft Yahei', 'PingFang SC', serif;
+    color: #0e0e0e;
+}
+
+/*板块面板*/
+.panel {
+    width: 1168px;
+    margin: 100px auto;
+    border: 1px solid #cacaca;
+}
+
+.panel-head {
+    text-align: center;
+    height: 70px;
+    font-size: 22px;
+    line-height: 70px;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #cacaca;
+    margin-bottom: 20px;
+}
+
+.panel-body {
+    height: 432px;
+}
+
+.img-gallery {
+    margin-right: 10px;
+}
+.gallery-box{
+    position: relative;
+    width: 820px;
+    height: 382px;
+    overflow: hidden;
+
+}
+.img-list{
+    position: absolute;
+    width: 4100px;
+    height: 382px;
+    left: -1640px;
+    transition: 1s left;
+}
+.img-box {
+    width: 190px;
+    margin-right: 20px;
+}
+
+.img-box, .next-you p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.last-img-box {
+    margin-right: 0;
+}
+
+.img-box img {
+    width: 190px;
+}
+
+.user-info {
+    color: #ff7bc0;
+}
+
+.btn {
+    width: 56px;
+    height: 360px;
+    text-align: center;
+    font-size: 34px;
+    font-weight: 900;
+    color: #ff7bc0;
+    line-height: 360px;
+    cursor: pointer;
+}
+
+.next-you {
+    position: relative;
+    box-sizing: border-box;
+    padding: 46px 20px;
+    width: 216px;
+    height: 392px;
+    background-color: #ffd6dc;
+}
+
+.next, .you {
+    font-weight: normal;
+    text-align: center;
+}
+
+.next {
+    font-size: 40px;
+    line-height: 78px;
+}
+
+.you {
+    font-size: 30px;
+    line-height: 54px;
+}
+
+.btn-try {
+    position: absolute;
+    left: 50px;
+    bottom: -25px;
+    display: block;
+    width: 138px;
+    height: 50px;
+    font-size: 18px;
+    line-height: 50px;
+    color: #f4e5fc;
+    text-align: center;
+    background-color: #ff329a;
+    border-radius: 6px;
+    cursor: pointer;
+}
