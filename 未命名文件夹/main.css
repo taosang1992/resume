@@ -1,0 +1,25 @@
+/*css reset*/
+body,ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+/*公共样式*/
+.clearF{
+    overflow: auto;
+    zoom: 1;
+}
+.fL{
+    float: left;
+}
+.fR{
+    float: right;
+}
+
+
