@@ -59,7 +59,7 @@ window.onload = function () {
     nav_icon.onclick = function (e) {
         //阻止事件冒泡
         // e.stopPropagation();
-        window.event.cancelBubble = true;
+        // window.event.cancelBubble = true;
         if (nav_item.style.display === 'none') {
             nav_item.style.display = 'block';
             e.target.innerHTML = 'X';
