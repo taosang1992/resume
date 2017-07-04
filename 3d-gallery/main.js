@@ -12,7 +12,7 @@ window.onload = function () {
 
     // 循坏20次生成20个随机数
     for (var i = 0; ; i++) {
-        // 只生成10个随机数
+        // 生成20个随机数
         if (array.length < 20) {
             generateRandom(50);
         } else {
