@@ -96,7 +96,7 @@ window.onload = function () {
             dY = nowY - lastY;
             roX += dX * 0.5;
             roY -= dY * 0.5;
-            wrapObj.style.transform = "rotateX(" + roX + "deg) rotateY(" + roY + "deg)";
+            wrapObj.style.transform = "rotateX(" + roY + "deg) rotateY(" + roX + "deg)";
             lastX = nowX;
             lastY = nowY;
             console.log(roX, roY);
