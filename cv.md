@@ -31,7 +31,7 @@
 
 ### 更多作品链接
 - [在线简历与作品集](https://taosang1992.github.io/resume)——https://taosang1992.github.io/resume
-- [简书](http://www.jianshu.com/u/8c85b6c419d1)——http://www.jianshu.com/u/8c85b6c419d1（直接搜ID「小董君」即可）
+- [博客](http://www.jianshu.com/u/8c85b6c419d1)——http://www.jianshu.com/u/8c85b6c419d1
 - [Github](https://github.com/taosang1992)——https://github.com/taosang1992
 - [CodePen](http://codepen.io/taosang1992/pens/public/)——http://codepen.io/taosang1992
 - [FreeCodeCamp](https://www.freecodecamp.com/taosang1992)——https://www.freecodecamp.com/taosang1992 （可以查看我的 JS 算法挑战情况）
