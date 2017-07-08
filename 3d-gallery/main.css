@@ -11,7 +11,7 @@ li {
 body {
     width: 100vw;
     height: 100vh;
-    background-color: #369;
+    background-color: #1989fa;
     perspective: 800px; /*设置视角*/
     display: flex;
     justify-content: center;
