@@ -3,7 +3,7 @@
 
 **联系方式**——电话：18392394051 | 邮箱：taosang@sina.cn | 微信：taosang1992 <br>
 **教育背景**——学校：西安文理学院（2011～2015） | 学历：统招本科（生物科学）<br>
-** [博客](http://www.jianshu.com/u/8c85b6c419d1)**——http://www.jianshu.com/u/8c85b6c419d1 | ** [Github](https://github.com/taosang1992)**——https://github.com/taosang1992
+**[博客](http://www.jianshu.com/u/8c85b6c419d1)**——http://www.jianshu.com/u/8c85b6c419d1 | **[Github](https://github.com/taosang1992)**——https://github.com/taosang1992
 
 
 ### 技能：
