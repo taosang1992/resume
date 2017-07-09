@@ -2,7 +2,9 @@
 ### 个人信息：
 
 **联系方式**——电话：18392394051 | 邮箱：taosang@sina.cn | 微信：taosang1992 <br>
-**教育背景**——学校：西安文理学院（2011～2015） | 学历：统招本科（生物科学）
+**教育背景**——学校：西安文理学院（2011～2015） | 学历：统招本科（生物科学）<br>
+** [博客](http://www.jianshu.com/u/8c85b6c419d1)**——http://www.jianshu.com/u/8c85b6c419d1 | ** [Github](https://github.com/taosang1992)**——https://github.com/taosang1992
+
 
 ### 技能：
 1. **制作静态页面**： 掌握 PS 切图，能用 HTML 与 CSS 还原 PSD 设计稿
@@ -44,7 +46,7 @@
     - 使用纯手写 HTML/CSS/JS 实现
     - 实现了首页、文章页、文章列表页
     - 原生 JS 实现首页轮播图
-7. [Show the local weather](https://taosang1992.github.io/FCC-Project/Show-the-Local-Weather/)——常见的企业官网<br>
+7. [Show the local weather](https://taosang1992.github.io/FCC-Project/Show-the-Local-Weather/)<br>
     - 使用了 jQuery Ajax 请求 API 数据
     - 使用了 Openweather API 和 IP 查询 API
     - 可以显示用户所在地的天气情况
@@ -52,8 +54,6 @@
 
 ### 更多作品链接
 - [在线简历与作品集](https://taosang1992.github.io/resume)——https://taosang1992.github.io/resume
-- [博客](http://www.jianshu.com/u/8c85b6c419d1)——http://www.jianshu.com/u/8c85b6c419d1
-- [Github](https://github.com/taosang1992)——https://github.com/taosang1992
 - [CodePen](http://codepen.io/taosang1992/pens/public/)——http://codepen.io/taosang1992 （一些实验性质的 Demo）
 
 ### 工作经历
@@ -65,4 +65,4 @@
 在职期间，负责开源中国社区主站改版的项目支持工作。与此同时，开始接触前端。<br>
 **西安丝路软件有限责任公司** <br>
 2015-04——2016-04 | 项目支持 <br>
-在职期间，参与了日本巨头 UNICHIKA 的 Java Web 移行项目，从此踏入IT行业。
+在职期间，参与了日本巨头 UNICHIKA 的 Java Web 移行项目。从此踏入 IT 行业。
