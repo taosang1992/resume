@@ -30,6 +30,7 @@ QQ： 1539883713 | 在校时间：2011/09～2015/07 | [FreeCodeCamp](https://www
         +  独自完成前端部分开发
         +  封装 Vue 组件，踩坑 Vue-cli 项目
         +  踩坑微信 JS-SDK 的使用
+<br>
 1. [优品自然商城](https://shop.ufutx.com/ypzr/)<br>  
     - ![优品自然商城](http://opyredtvk.bkt.clouddn.com/ypzr.png)
     -  开发周期：2017/11
@@ -38,6 +39,7 @@ QQ： 1539883713 | 在校时间：2011/09～2015/07 | [FreeCodeCamp](https://www
         +  搭建项目前端部分
         +  完成一半的页面
         +  踩坑 SMUI 的使用
+<br>
 1. [农艺市集商城](https://shop.ufutx.com/nysj/) | [友福商城V2](http://shop.ufutx.com/shop/v2)<br>
     - ![农艺市集商城](http://opyredtvk.bkt.clouddn.com/nysj.png) ![友福商城V2](http://opyredtvk.bkt.clouddn.com/ufu-tx-v2.png)
     -  开发周期：开发周期：2017/12
@@ -45,6 +47,7 @@ QQ： 1539883713 | 在校时间：2011/09～2015/07 | [FreeCodeCamp](https://www
     -  个人贡献：
         +  搭建项目前端部分
         +  完成一半的页面
+<br>
 1. 活水后台管理——PC端项目(不能对外公开)<br>
     -  开发周期：2018/01
     -  技术栈：Vue-cli、iView
@@ -58,6 +61,7 @@ QQ： 1539883713 | 在校时间：2011/09～2015/07 | [FreeCodeCamp](https://www
     -  个人贡献
         +  系统迭代
         +  bug 修复
+<br>
 ## 相关工作经历
 时间 | 公司 | 职位
 ------------ | ------------- | ------------
