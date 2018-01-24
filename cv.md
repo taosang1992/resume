@@ -4,7 +4,7 @@
 联系方式 | 教育背景 | 相关链接
 ------------ | ------------- | ------------
 电话：18392394051 |学校：西安文理学院 | [博客](http://www.jianshu.com/u/8c85b6c419d1)
-邮箱：taosang@sina.cn |学历：统招本科 |[Github](https://github.com/taosang1992)
+邮箱：taosang@sina.cn |学历：本科 |[Github](https://github.com/taosang1992)
 微信：taosang1992  | 专业：生物科学 |[CodePen](https://codepen.io/taosang1992/pens/public/)
 QQ： 1539883713 | 在校时间：2011/09～2015/07 | [FreeCodeCamp](https://www.freecodecamp.org/taosang1992)
 
